@@ -16,7 +16,7 @@ function Navbar() {
                     <div className="container d-flex justify-content-between">
                         <Link to = {"/"} className="navbar-brand fs-2" style={{ color: '#EEAE23' }}>
                             <img
-                                src="image/image-from-rawpixel-id-12520860-original.png"
+                                src="/image/image-from-rawpixel-id-12520860-original.png"
                                 alt="HTML code ib a screen"
                                 height="50"
                             />
